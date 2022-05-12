@@ -24,7 +24,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.viveksc1994.demo_crash_expo45_android12"
     },
     "web": {
       "favicon": "./assets/favicon.png"
